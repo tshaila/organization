@@ -1,0 +1,12 @@
+Name,Role,Manager
+Alice,CEO,
+Bob,CTO,Alice
+Charlie,CFO,Alice
+David,HR Manager,Alice
+Eve,Lead Developer,Bob
+Frank,Software Engineer,Eve
+Grace,QA Engineer,Eve
+Hannah,Financial Manager,Charlie
+Ian,Accountant,Hannah
+Julia,HR Assistant,David
+Karl,Recruiter,David
